@@ -9,8 +9,11 @@
         "url": "http://fex.baidu.com"
     },
     "repository": {
-        "type": "git",
+        "type": "vcs",
         "url": "https://github.com/jianqingwang/ueditor.git"
+    },
+    "require": {
+        "jianqingwang/ueditor": "dev-1.5.0."
     },
     "keywords": [
         "ueditor",
